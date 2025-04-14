@@ -1,0 +1,10 @@
+# robots.txt for GyrosNearMe.com
+
+User-agent: *
+Disallow:
+
+# Allow everything (single-page site)
+Allow: /
+
+# Sitemap (ako budeš dodao jedan kasnije)
+Sitemap: https://www.gyrosnearme.com/sitemap.xml
